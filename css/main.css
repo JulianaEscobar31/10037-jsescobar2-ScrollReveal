@@ -1,0 +1,44 @@
+header {
+    margin-top: 75px;
+    background: rgb(224, 192, 156);
+}
+
+h3,
+h2,
+h1 {
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+p,
+form {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.logo {
+    width: 50px;
+}
+
+.navbar {
+    font-family: 'Titillium Web', sans-serif;
+    background: white;
+}
+
+.imagen1 {
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto; */
+    width: 100%;
+}
+
+#testimonial {
+    padding: 50px 0 10px 0;
+    text-align: center;
+    margin-top: 40px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.formulario {
+    text-align: center;
+    background-color: rgb(224, 192, 156);
+}
